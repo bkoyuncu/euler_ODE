@@ -1,2 +1,2 @@
 # euler_ODE
-a simple python code for Euler's Method (ODE)
+a repo for Euler's Method (ODE)
